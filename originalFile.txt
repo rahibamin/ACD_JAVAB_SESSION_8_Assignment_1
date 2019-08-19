@@ -1,0 +1,1 @@
+I am trying to copy a this file using Buffered Writer.
